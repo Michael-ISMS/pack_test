@@ -1,0 +1,2 @@
+class Package::SensibleClass
+end
